@@ -1,6 +1,3 @@
-Here's a sample `README.md` for your GitHub repository:
-
-```markdown
 # SSH Route Check Script
 
 This repository contains a bash script to automate the process of SSH-ing into multiple devices, running a route check script, and reporting any devices with issues.
